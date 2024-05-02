@@ -23,6 +23,7 @@ int64_t getSum(int n){
 
 n/2 * (a1 + an )
 
+
 */
 
 int64_t constSumget(int limit , int num1 , int num2){
